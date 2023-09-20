@@ -1,7 +1,0 @@
-atari-py
-opencv-python
-plotly
-torch
-torchvision
-kornia
-tqdm
